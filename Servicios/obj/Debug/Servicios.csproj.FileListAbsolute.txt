@@ -1,0 +1,17 @@
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\Servicios\bin\Debug\Servicios.dll
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\Servicios\bin\Debug\Servicios.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\Servicios\obj\Debug\Servicios.dll
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\Servicios\obj\Debug\Servicios.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\bin\Debug\Servicios.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\bin\Debug\Servicios.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\bin\Debug\BE.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\bin\Debug\DAL.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\bin\Debug\Idioma.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\bin\Debug\BE.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\bin\Debug\DAL.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\bin\Debug\Idioma.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\obj\Debug\Servicios.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\Servicios\obj\Debug\Servicios.pdb
