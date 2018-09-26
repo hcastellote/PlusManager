@@ -1,0 +1,56 @@
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.Properties.Resources.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AltaCliente.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AltaIdioma.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AltaOferta.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AltaPaquete.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AltaReserva.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AsignarOferta.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.CanjePuntos.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.CargaCatalogoCanjes.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.ConfigurarIdioma.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.ConsultaBitacora.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.GestionBackUp.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.GestionPermisos.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.GestionUsuarios.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.Login.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\PlusManager.UI.Principal.resources
+C:\Users\Hernan\Documents\facultad\3er Año\Trabajo de Campo\campo 2018\carpetas\Hernán\PlusManager\PlusManager\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\PlusManager.exe.config
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\PlusManager.exe
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\PlusManager.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\BE.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\BLL.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\Idioma.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\Servicios.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\Sistema.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\DAL.dll
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\BE.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\BLL.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\Idioma.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\Servicios.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\Sistema.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\bin\Debug\DAL.pdb
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.BitacoraUsuario.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.Properties.Resources.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AltaCliente.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AltaIdioma.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AltaOferta.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AltaPaquete.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AltaReserva.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.AsignarOferta.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.CanjePuntos.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.CargaCatalogoCanjes.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.ConfigurarIdioma.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.ConsultaBitacora.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.GestionBackUp.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.GestionPermisos.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.frmGestionUsuarios.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.Login.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.UI.Principal.resources
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.exe
+C:\Users\Hernan\Documents\facultad\3er Año\trabajo de diploma\PlusManager\PlusManager\obj\Debug\PlusManager.pdb
